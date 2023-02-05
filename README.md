@@ -12,7 +12,7 @@ Using this data set, I generate a similar in-depth principal component analysis 
 
 ### Dependencies
 
-This program was written using Python 3.9.2 and requires Jupyter Notebooks.
+This program was written using Jupyter Notebooks and Python 3.9.2.
 
 The following libraries are required to be installed:
 
